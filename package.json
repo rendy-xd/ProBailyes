@@ -12,7 +12,7 @@
     "whatsapp-bot"
   ],
   "license": "MIT",
-  "author": "Adhiraj Singh",
+  "author": "PL",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "files": [
